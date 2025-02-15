@@ -1,1 +1,1 @@
-# Database Integrationsß
+# Database Integrations
