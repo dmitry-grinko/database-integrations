@@ -28,7 +28,7 @@ This repository contains code for integrating with various databases.
 
 [GoogleCloudSQL](SQL/GoogleCloudSQL)
 
-[MariaDB](SQL/MariaDB)
+[MariaDB](SQL/MariaDB) ✅
 
 [MSSQLServer](SQL/MSSQLServer)
 

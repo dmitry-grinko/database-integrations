@@ -1,0 +1,25 @@
+[mysqld]
+# Basic Settings
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
+default_storage_engine = InnoDB
+
+# Connection Settings
+max_connections = XXXX
+max_allowed_packet = XXXX
+
+# InnoDB Settings
+innodb_buffer_pool_size = XXXX
+innodb_log_file_size = XXXX
+innodb_log_buffer_size = XXXX
+innodb_flush_log_at_trx_commit = 2
+innodb_file_per_table = 1
+
+# Query Cache
+query_cache_size = XXXX
+query_cache_type = 1
+
+# Logging
+slow_query_log = 1
+slow_query_log_file = /var/log/mysql/slow-query.log
+long_query_time = XXXX 
