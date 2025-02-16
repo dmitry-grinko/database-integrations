@@ -32,7 +32,7 @@ This repository contains code for integrating with various databases.
 
 [MSSQLServer](SQL/MSSQLServer)
 
-[MySQL](SQL/MySQL)
+[MySQL](SQL/MySQL) ✅
 
 [Oracle](SQL/Oracle)
 
