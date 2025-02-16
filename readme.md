@@ -36,7 +36,7 @@ This repository contains code for integrating with various databases.
 
 [Oracle](SQL/Oracle)
 
-[PostgreSQL](SQL/PostgreSQL)
+[PostgreSQL](SQL/PostgreSQL) ✅
 
 [Snowflake](SQL/Snowflake)
 

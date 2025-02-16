@@ -30,11 +30,11 @@ npm start
 
 ## API Endpoints
 
-- POST /items - Create a new item
-- GET /items - Get all items
-- GET /items/:id - Get a single item
-- PUT /items/:id - Update an item
-- DELETE /items/:id - Delete an item
+- POST /api/items - Create a new item
+- GET /api/items - Get all items
+- GET /api/items/:id - Get a single item
+- PUT /api/items/:id - Update an item
+- DELETE /api/items/:id - Delete an item
 
 ## Troubleshooting
 
