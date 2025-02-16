@@ -40,4 +40,4 @@ This repository contains code for integrating with various databases.
 
 [Snowflake](SQL/Snowflake)
 
-[SQLite](SQL/SQLite)
+[SQLite](SQL/SQLite) ✅
