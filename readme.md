@@ -18,7 +18,7 @@ This repository contains code for integrating with various databases.
 
 [Neo4j](NoSQL/Neo4j)
 
-[Redis](NoSQL/Redis)
+[Redis](NoSQL/Redis) ✅
 
 ## SQL
 
